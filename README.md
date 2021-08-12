@@ -13,7 +13,7 @@ Open `data/schemes.db3` using a graphical tool like SQLite Studio and study the 
 ### API
 
 Open `api/schemes/scheme-router.js` and study the specification for each endpoint. You do not need to make any changes to this file.
-
+     
 - `[GET] /api/schemes`
 - `[GET] /api/schemes/:scheme_id`
 - `[GET] /api/schemes/:scheme_id/steps`
